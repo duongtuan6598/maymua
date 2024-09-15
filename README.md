@@ -1,5 +1,7 @@
 Hứa hẹn maymua sẽ kiếm được nhiều tiền...
 
+Đa phần maymua sẽ được code bằng tiếng việt. Tên các hàm, biến, sẽ được đặc theo quy tắc chung.
+
 
     <!DOCTYPE html>
     <html>
