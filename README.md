@@ -1,5 +1,7 @@
 Hứa hẹn maymua sẽ kiếm được nhiều tiền...
 
+Tất cả sẽ được code bằng máy lenovo và trên nền tảng github.
+
 Đa phần maymua sẽ được code bằng tiếng việt. Tên các hàm, biến, sẽ được đặc theo quy tắc chung.
 
 
