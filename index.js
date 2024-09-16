@@ -1,3 +1,11 @@
-(function() {
-  console.log('NOW')
-})()
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello World!";
+</script>
+
+</body>
+</html>
