@@ -7,6 +7,6 @@ const app = {
     this.cars[index] = car
   },
   delete(index, car) {
-    this.cars.splices(index, 1)
+    this.cars.splice(index, 1)
   }
 }
