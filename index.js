@@ -1,3 +1,3 @@
 (function() {
-  console.log('NOW')
+  console.log('NOW NOW')
 })()
