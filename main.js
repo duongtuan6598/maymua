@@ -1,2 +1,2 @@
-console.log('OK ok')
+console.log('no')
 console.log('OK')
